@@ -1,0 +1,101 @@
+[02-Feb-2020 08:22:20 UTC] PHP Warning:  include(registration-assets/validate.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/index.php on line 22
+[02-Feb-2020 08:22:20 UTC] PHP Warning:  include(): Failed opening 'registration-assets/validate.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/index.php on line 22
+[02-Feb-2020 08:22:20 UTC] PHP Warning:  include(registration-assets/signup.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/index.php on line 23
+[02-Feb-2020 08:22:20 UTC] PHP Warning:  include(): Failed opening 'registration-assets/signup.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/index.php on line 23
+[02-Feb-2020 09:35:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/jw4rhnrfyv7n/public_html/registration-assets/connect.php on line 5
+[02-Feb-2020 09:37:52 UTC] PHP Warning:  require(mailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 09:37:52 UTC] PHP Fatal error:  require(): Failed opening required 'mailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 09:43:34 UTC] PHP Warning:  require(mailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 09:43:34 UTC] PHP Fatal error:  require(): Failed opening required 'mailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 09:58:18 UTC] PHP Warning:  require(mailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 09:58:18 UTC] PHP Fatal error:  require(): Failed opening required 'mailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 10:02:28 UTC] PHP Warning:  require(mailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 10:02:28 UTC] PHP Fatal error:  require(): Failed opening required 'mailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 10:32:29 UTC] PHP Warning:  require(mailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 10:32:29 UTC] PHP Fatal error:  require(): Failed opening required 'mailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 10:46:03 UTC] PHP Warning:  require(mailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 10:46:03 UTC] PHP Fatal error:  require(): Failed opening required 'mailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 11:12:56 UTC] PHP Warning:  require(mailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 11:12:56 UTC] PHP Fatal error:  require(): Failed opening required 'mailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 43
+[02-Feb-2020 11:32:10 UTC] PHP Warning:  require(mailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 44
+[02-Feb-2020 11:32:10 UTC] PHP Fatal error:  require(): Failed opening required 'mailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 44
+[02-Feb-2020 11:34:59 UTC] PHP Warning:  require(mailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 44
+[02-Feb-2020 11:34:59 UTC] PHP Fatal error:  require(): Failed opening required 'mailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 44
+[02-Feb-2020 11:39:15 UTC] PHP Warning:  require(mailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 44
+[02-Feb-2020 11:39:15 UTC] PHP Fatal error:  require(): Failed opening required 'mailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 44
+[02-Feb-2020 11:42:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[02-Feb-2020 11:44:59 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[02-Feb-2020 11:51:27 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[02-Feb-2020 12:30:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[02-Feb-2020 12:39:21 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[02-Feb-2020 13:06:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[02-Feb-2020 13:15:09 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[02-Feb-2020 15:49:55 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[02-Feb-2020 15:54:29 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[02-Feb-2020 16:00:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[02-Feb-2020 16:03:04 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[03-Feb-2020 04:05:04 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[03-Feb-2020 09:45:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[03-Feb-2020 10:26:11 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[03-Feb-2020 14:51:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[03-Feb-2020 14:58:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[03-Feb-2020 15:08:57 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[03-Feb-2020 15:14:35 UTC] PHP Warning:  filter_var(): No ending delimiter '^' found in /home/jw4rhnrfyv7n/public_html/registration-assets/validate.php on line 70
+[03-Feb-2020 15:14:41 UTC] PHP Warning:  filter_var(): No ending delimiter '^' found in /home/jw4rhnrfyv7n/public_html/registration-assets/validate.php on line 70
+[03-Feb-2020 15:14:52 UTC] PHP Warning:  filter_var(): No ending delimiter '^' found in /home/jw4rhnrfyv7n/public_html/registration-assets/validate.php on line 70
+[03-Feb-2020 15:14:59 UTC] PHP Warning:  filter_var(): No ending delimiter '^' found in /home/jw4rhnrfyv7n/public_html/registration-assets/validate.php on line 70
+[03-Feb-2020 15:15:09 UTC] PHP Warning:  filter_var(): No ending delimiter '^' found in /home/jw4rhnrfyv7n/public_html/registration-assets/validate.php on line 70
+[03-Feb-2020 15:19:34 UTC] PHP Warning:  filter_var(): No ending delimiter '^' found in /home/jw4rhnrfyv7n/public_html/registration-assets/validate.php on line 70
+[04-Feb-2020 16:57:47 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 192
+[04-Feb-2020 16:57:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[04-Feb-2020 16:57:47 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 263
+[04-Feb-2020 17:05:25 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/registration-assets/signup.php on line 192
+[04-Feb-2020 17:05:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/registration-assets/mail/PHPMailerAutoload.php on line 45
+[06-Feb-2020 15:31:05 UTC] PHP Warning:  include(form/registration-assets/validate.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/symposium.php on line 22
+[06-Feb-2020 15:31:05 UTC] PHP Warning:  include(): Failed opening 'form/registration-assets/validate.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/symposium.php on line 22
+[06-Feb-2020 15:31:05 UTC] PHP Warning:  include(form/registration-assets/signup.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/symposium.php on line 23
+[06-Feb-2020 15:31:05 UTC] PHP Warning:  include(): Failed opening 'form/registration-assets/signup.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/symposium.php on line 23
+[06-Feb-2020 15:35:01 UTC] PHP Warning:  include(form/registration-assets/validate.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/symposium.php on line 22
+[06-Feb-2020 15:35:01 UTC] PHP Warning:  include(): Failed opening 'form/registration-assets/validate.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/symposium.php on line 22
+[06-Feb-2020 15:35:01 UTC] PHP Warning:  include(form/registration-assets/signup.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/symposium.php on line 23
+[06-Feb-2020 15:35:01 UTC] PHP Warning:  include(): Failed opening 'form/registration-assets/signup.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/symposium.php on line 23
+[06-Feb-2020 15:35:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize() in /home/jw4rhnrfyv7n/public_html/symposium.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/jw4rhnrfyv7n/public_html/symposium.php on line 27
+[06-Feb-2020 15:35:30 UTC] PHP Warning:  include(form/registration-assets/validate.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/symposium.php on line 22
+[06-Feb-2020 15:35:30 UTC] PHP Warning:  include(): Failed opening 'form/registration-assets/validate.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/symposium.php on line 22
+[06-Feb-2020 15:35:30 UTC] PHP Warning:  include(form/registration-assets/signup.php): failed to open stream: No such file or directory in /home/jw4rhnrfyv7n/public_html/symposium.php on line 23
+[06-Feb-2020 15:35:30 UTC] PHP Warning:  include(): Failed opening 'form/registration-assets/signup.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jw4rhnrfyv7n/public_html/symposium.php on line 23
+[06-Feb-2020 15:37:55 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[06-Feb-2020 15:37:55 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[06-Feb-2020 15:44:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[06-Feb-2020 15:48:56 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[06-Feb-2020 15:48:56 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[07-Feb-2020 04:17:16 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[07-Feb-2020 04:17:16 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[07-Feb-2020 14:58:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[07-Feb-2020 15:17:46 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[07-Feb-2020 15:17:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[07-Feb-2020 15:19:56 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[07-Feb-2020 15:35:41 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[07-Feb-2020 15:35:41 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 03:51:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 04:54:34 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[08-Feb-2020 04:54:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 06:09:46 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[08-Feb-2020 06:09:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 06:42:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 07:40:24 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[08-Feb-2020 07:40:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 07:41:25 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[08-Feb-2020 07:41:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 08:13:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 08:37:17 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[08-Feb-2020 08:37:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 10:55:38 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[08-Feb-2020 10:55:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 11:37:35 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 12:35:36 UTC] PHP Notice:  Undefined variable: listevent in /home/jw4rhnrfyv7n/public_html/form/registration-assets/signup.php on line 171
+[08-Feb-2020 12:35:36 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45
+[08-Feb-2020 12:44:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/jw4rhnrfyv7n/public_html/form/registration-assets/mail/PHPMailerAutoload.php on line 45

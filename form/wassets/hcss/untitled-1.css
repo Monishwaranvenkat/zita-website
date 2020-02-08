@@ -1,0 +1,63 @@
+.bg-primary {
+  background-color: #a3a8a3!important;
+}
+
+
+.navbar-light .navbar-brand {
+  color: rgba(18,2,2,0.9);
+}
+
+.header-blue img {
+  vertical-align: middle;
+  border-style: none;
+  position:relative;
+  margin-left: auto;
+  margin-top: -1%;
+  width: 75px;
+  height: 75px;
+}
+
+.btn-light:not(:disabled):not(.disabled).active, .btn-light:not(:disabled):not(.disabled):active, .show > .btn-light.dropdown-toggle {
+  color: #212529;
+  background-color: #dae0e5;
+  border-color: rgba(31,34,36,0.48);
+  font-family: fantasy;
+}
+
+.col {
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: rgba(0,0,0,.9);
+  float: right;
+}
+
+.text-center {
+  text-align: center!important;
+  color: #000000;
+  font-size: xx-large;
+  text-shadow: 2px 1px 4px #898e8c;
+}
+
+button, input, optgroup, select, textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background: rgba(255,255,255,0);
+  background-clip: border-box;
+  border-radius: .25rem;
+}
+
